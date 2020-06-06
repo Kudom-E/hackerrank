@@ -1488,13 +1488,3 @@
 	
 	
 </table> 
-
-<h2>Contributing</h2>
-<p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
-<ul>
-	<li>Email - kumbonghermann@gmail.com</li>
-	<li>Follow me on <a href="https://twitter.com/KumbongHermann">twitter</a></li>
-	<li>Let's connect on <a href="https://www.linkedin.com/in/kumbong-hermann-406481110/">linkedin</a></li>
-	<li>I'm on <a href="https://www.hackerrank.com/kumbonghermann">hackerrank</a> as well</li> 
-</ul>
-</p>
